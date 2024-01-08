@@ -42,3 +42,13 @@ body {
     background-color: darkred;
     color: white;
   }
+
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    padding: 5px;
+    color: white;
+}
