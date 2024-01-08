@@ -36,3 +36,9 @@ body {
     background-color: #ddd;
     color: black;
   }
+
+  /* Add a color to the active/current link */
+.navibar a.active {
+    background-color: darkred;
+    color: white;
+  }
